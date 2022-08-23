@@ -1,5 +1,18 @@
 :root {
     --color-light: #f8f9fa;
+    --color-white: #fff;
+    --color-unaccent: #808080;
+
+    --spacing-small: 10px;
+    --spacing-medium: 15px;
+    --spacing-large: 30px;
+
+    --border-radius: 3px;
+    --linear-gradient: linear-gradient(to right,  #e2f87c,  #d6f567, #c8f151,  #b9ee38, #a8eb12);
+	--box-shadow: 
+		0  2 px  24 px  16 px  0 (33,37,41,.02), 
+		0  5 px  30 px  6 px  0 (33,37,41,.04), 
+		0 -5 px  10 px  8 px  0 (33,37,41,.1);
 }
 *{
     box-sizing: border-box;
